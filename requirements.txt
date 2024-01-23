@@ -18,7 +18,7 @@ keras==2.7.0
 pynimbus
 geopy>=2.2.0
 metpy>=1.1.0
-scipy==1.6.3
+scipy==1.11.1
 shapely==1.8.0
 proplot
 geopandas
