@@ -13,7 +13,7 @@ pyclipper
 labelme
 psutil
 open-fonts==0.1
-tensorflow==2.7.0
+tensorflow==2.11.1
 keras==2.7.0
 pynimbus
 geopy>=2.2.0
