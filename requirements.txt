@@ -1,6 +1,6 @@
 matplotlib>=3.3.2
 Cython>=0.29.21
-scikit-learn==0.23.2
+scikit-learn==1.0.1
 opencv-python==4.5.1.48
 proj==0.2.0
 pillow==10.2.0
